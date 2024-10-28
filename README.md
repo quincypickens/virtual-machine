@@ -31,7 +31,7 @@ Create an Azure account [here](https://azure.microsoft.com/en-us/free/).
     - Use the same resource group and region as steps 2 and 3
 
 <p align="center">
-<img src="https://i.imgur.com/y0RafHM.png" height="70%" width="70%" alt="Azure Free Account"/> <img src="https://i.imgur.com/PCJ3QAr.png" height="70%" width="70%" alt="Azure Free Services"/>
+<img src="https://i.imgur.com/55s8gku.png" height="70%" width="70%" alt="Azure Free Account"/>    <img src="https://i.imgur.com/Az8GoTu.png" height="50%" width="50%" alt="Azure Free Services"/>
 </p>
  
 
