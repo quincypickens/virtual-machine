@@ -1,9 +1,9 @@
 <p align="center">
-<img src="https://i.imgur.com/4wqxHID.png" height="40%" width="60%" alt="Microsoft Azure Logo"/>
+<img src="https://i.imgur.com/a1mJAFV.png="40%" width="40%" alt="Microsoft Azure Logo"/>
 </p>
 
 <h1>Microsoft Azure</h1>
-Azure is a cloud computing platform and an online portal that allows you to access and manage cloud services and resources provided by Microsoft. To get access to these resources and services, all you need to have is an active internet connection and the ability to connect to the Azure portal. This guide will demonstrate how to create an Azure account and create a virtual machine.
+Azure is a cloud service from Microsoft that lets you use and manage various online tools and resources. To start using Azure, you just need an internet connection and access to the Azure website. This guide will show you how to set up an Azure account and create a virtual machine, which is like a computer you can use online.
 
 <h2>Requirements</h2>
 
@@ -21,41 +21,9 @@ Create an Azure account [here](https://azure.microsoft.com/en-us/free/).
 - Follow the prompt to create the account 
      - You will need to put in your credit card information, but you will get $200 worth of Azure credit and will have 30 days to use those credits. You will not be charged until then
 - Finish the prompt, click Go to Azure Portal, and you are ready to start with Azure!
-     - You may also go to [portal.azure.com](https://www.portal.azure.com) to start
+  
+<h3>Step 2: Create a Virtual Machine</h3>
 
-
-<p align="center">
-<img src="https://i.imgur.com/rk4SD27.png" height="70%" width="70%" alt="Azure Free Account"/> <img src="https://i.imgur.com/f1eRIx4.png" height="70%" width="70%" alt="Azure Free Services"/>
-</p>
-
-
-<h3>Step 2: Create a Resource Group</h3>
-
-- Go to the search bar at the top and search "resource group"
-- Select Create Resource Group
-- Name your resource group and select the region 
-- Select Review + Create
-    
-<p align="center">
-<img src="https://i.imgur.com/AUB52Ww.png" height="70%" width="70%" alt="Azure Free Account"/>  <img src="https://i.imgur.com/EGBl1la.png" height="70%" width="70%" alt="Azure Free Account"/>  <img src="https://i.imgur.com/qVk3acN.png" height="70%" width="70%" alt="Azure Free Services"/>
-</p>
-
-<h3>Step 3: Create a Storage Account</h3>
-
-- Go to the search bar and search "storage account"
-- Select Create Storage Account
-- You will need to select the same resource group, the same region, and create a name for the storage group
-    - For this example, we will name the storage group "rglab1"
-    - Use the same resource group and region as step 2
-- Select Review, then Create
-
-<p align="center">
-<img src="https://i.imgur.com/zhb3GHZ.png" height="70%" width="70%" alt="Azure Free Account"/> <img src="https://i.imgur.com/7ryNBQg.png" height="70%" width="70%" alt="Azure Free Services"/>
-</p>
-
-
-<h3>Step 4: Create a Virtual Machine</h3>
-     
 - Go to the search bar and search "virtual machine"
 - Select Create, then select Azure Virtual Machine
 - You will need to select the same resource group, the same region, and create a name for the virtual machine
