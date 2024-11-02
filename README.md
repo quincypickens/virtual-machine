@@ -32,7 +32,7 @@ Create an Azure account [here](https://azure.microsoft.com/en-us/free/).
 - Select Windows 10 pro for image.
 
 <p align="center">
-<img src="https://i.imgur.com/55s8gku.png" height="70%" width="70%" alt="Azure Free Account"/> <img src="https://i.imgur.com/Az8GoTu.png" height="50%" width="50%" alt="Azure Free Services"/> <img src="https://i.imgur.com/Bnil76b.png" height="50%" width="50%" alt="Azure Free Services"/>
+<img src="https://i.imgur.com/55s8gku.png" height="70%" width="70%" alt="Virtual Machine Lab"/> <img src="https://i.imgur.com/Az8GoTu.png" height="50%" width="50%" alt="Virtual Machine Lab"/> <img src="https://i.imgur.com/Bnil76b.png" height="50%" width="50%" alt="Virtual Machine Lab"/>
 </p>
  
 * You will then need to select disk size.
@@ -41,7 +41,7 @@ Create an Azure account [here](https://azure.microsoft.com/en-us/free/).
 * Click the box under licensing and finally click Review + Create. 
 
 <p align="center">
-<img src="https://i.imgur.com/4xsJJB1.png" height="70%" width="70%" alt="Azure Free Account"/> 
+<img src="https://i.imgur.com/4xsJJB1.png" height="70%" width="70%" alt="Virtual Machine Lab"/> 
 </p>
  
 <h3>Step 3: Connect to the Virtual Machine</h3>
@@ -51,7 +51,7 @@ Create an Azure account [here](https://azure.microsoft.com/en-us/free/).
    - Copy the public IP address
 
 <p align="center">
-<img src="https://i.imgur.com/96jxGGg.png" height="100%" width="100%" alt="Azure Free Account"/>
+<img src="https://i.imgur.com/96jxGGg.png" height="100%" width="100%" alt="Virtual Machine Lab"/>
 
 * Mac Users 
    - Download Microsoft Remote Desktop
@@ -66,7 +66,7 @@ Create an Azure account [here](https://azure.microsoft.com/en-us/free/).
      - Enter the username and password from step 4
      - Select OK
   
-   <img src="https://i.imgur.com/4oIgv1O.png" height="50%" width="50%" alt="Azure Free Account"/>  
+   <img src="https://i.imgur.com/4oIgv1O.png" height="50%" width="50%" alt="Virtual Machine Lab"/>  
 
 You have created your first virtual machine within Azure!
 
